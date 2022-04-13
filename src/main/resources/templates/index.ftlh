@@ -11,6 +11,7 @@
 <h3>Enter your name</h3>
 <form action="/add" method="post">
     <input type="text" name="name" />
+    <br>
     <input type="submit" value="Create a new room">
 </form>
 </body>
